@@ -1,0 +1,374 @@
+Year,key,value,class
+2011,Abortion due syphilis,0.0,Diagnostico final
+2011,Stillbirth due to syphilis,0.0,Diagnostico final
+2011,Recent congenital syphilis,100.0,Diagnostico final
+2011,Late congenital syphilis,0.0,Diagnostico final
+2012,Abortion due syphilis,0.0,Diagnostico final
+2012,Stillbirth due to syphilis,16.1,Diagnostico final
+2012,Recent congenital syphilis,83.9,Diagnostico final
+2012,Late congenital syphilis,0.0,Diagnostico final
+2013,Abortion due syphilis,0.0,Diagnostico final
+2013,Stillbirth due to syphilis,14.3,Diagnostico final
+2013,Recent congenital syphilis,85.7,Diagnostico final
+2013,Late congenital syphilis,0.0,Diagnostico final
+2014,Abortion due syphilis,3.2,Diagnostico final
+2014,Stillbirth due to syphilis,4.8,Diagnostico final
+2014,Recent congenital syphilis,91.9,Diagnostico final
+2014,Late congenital syphilis,0.0,Diagnostico final
+2015,Abortion due syphilis,4.3,Diagnostico final
+2015,Stillbirth due to syphilis,13.0,Diagnostico final
+2015,Recent congenital syphilis,82.6,Diagnostico final
+2015,Late congenital syphilis,0.0,Diagnostico final
+2016,Abortion due syphilis,1.5,Diagnostico final
+2016,Stillbirth due to syphilis,22.4,Diagnostico final
+2016,Recent congenital syphilis,76.1,Diagnostico final
+2016,Late congenital syphilis,0.0,Diagnostico final
+2017,Abortion due syphilis,5.8,Diagnostico final
+2017,Stillbirth due to syphilis,7.2,Diagnostico final
+2017,Recent congenital syphilis,87.0,Diagnostico final
+2017,Late congenital syphilis,0.0,Diagnostico final
+2018,Abortion due syphilis,3.8,Diagnostico final
+2018,Stillbirth due to syphilis,10.5,Diagnostico final
+2018,Recent congenital syphilis,85.7,Diagnostico final
+2018,Late congenital syphilis,0.0,Diagnostico final
+2019,Abortion due syphilis,7.5,Diagnostico final
+2019,Stillbirth due to syphilis,8.6,Diagnostico final
+2019,Recent congenital syphilis,83.9,Diagnostico final
+2019,Late congenital syphilis,0.0,Diagnostico final
+2011,Incomplete 1st to 4th grade,0.0,Escolaridade da mae
+2011,Completed 4th grade,9.1,Escolaridade da mae
+2011,Incomplete 5th to 8th Grade,0.0,Escolaridade da mae
+2011,Illiterate,0.0,Escolaridade da mae
+2011,Completed Elementary School,0.0,Escolaridade da mae
+2011,Missing Data,72.7,Escolaridade da mae
+2011,Completed High School,0.0,Escolaridade da mae
+2011,Incompleted High School,18.2,Escolaridade da mae
+2011,Does not apply,0.0,Escolaridade da mae
+2011,Completed Higher education,0.0,Escolaridade da mae
+2012,Incomplete 1st to 4th grade,3.2,Escolaridade da mae
+2012,Completed 4th grade,3.2,Escolaridade da mae
+2012,Incomplete 5th to 8th Grade,9.7,Escolaridade da mae
+2012,Illiterate,0.0,Escolaridade da mae
+2012,Completed Elementary School,9.7,Escolaridade da mae
+2012,Missing Data,64.5,Escolaridade da mae
+2012,Completed High School,9.7,Escolaridade da mae
+2012,Incompleted High School,0.0,Escolaridade da mae
+2012,Does not apply,0.0,Escolaridade da mae
+2012,Completed Higher education,0.0,Escolaridade da mae
+2012,Incompleted Higher education,0.0,Escolaridade da mae
+2013,Incomplete 1st to 4th grade,2.9,Escolaridade da mae
+2013,Completed 4th grade,5.7,Escolaridade da mae
+2013,Incomplete 5th to 8th Grade,14.3,Escolaridade da mae
+2013,Illiterate,0.0,Escolaridade da mae
+2013,Completed Elementary School,2.9,Escolaridade da mae
+2013,Missing Data,62.9,Escolaridade da mae
+2013,Completed High School,2.9,Escolaridade da mae
+2013,Incompleted High School,5.7,Escolaridade da mae
+2013,Does not apply,2.9,Escolaridade da mae
+2013,Completed Higher education,0.0,Escolaridade da mae
+2013,Incompleted Higher education,0.0,Escolaridade da mae
+2014,Incomplete 1st to 4th grade,1.6,Escolaridade da mae
+2014,Completed 4th grade,3.2,Escolaridade da mae
+2014,Incomplete 5th to 8th Grade,29.0,Escolaridade da mae
+2014,Illiterate,0.0,Escolaridade da mae
+2014,Completed Elementary School,14.5,Escolaridade da mae
+2014,Missing Data,38.7,Escolaridade da mae
+2014,Completed High School,1.6,Escolaridade da mae
+2014,Incompleted High School,8.1,Escolaridade da mae
+2014,Does not apply,0.0,Escolaridade da mae
+2014,Completed Higher education,0.0,Escolaridade da mae
+2014,Incompleted Higher education,3.2,Escolaridade da mae
+2015,Incomplete 1st to 4th grade,4.3,Escolaridade da mae
+2015,Completed 4th grade,2.9,Escolaridade da mae
+2015,Incomplete 5th to 8th Grade,30.4,Escolaridade da mae
+2015,Illiterate,0.0,Escolaridade da mae
+2015,Completed Elementary School,4.3,Escolaridade da mae
+2015,Missing Data,33.3,Escolaridade da mae
+2015,Completed High School,7.2,Escolaridade da mae
+2015,Incompleted High School,13.0,Escolaridade da mae
+2015,Does not apply,0.0,Escolaridade da mae
+2015,Completed Higher education,1.4,Escolaridade da mae
+2015,Incompleted Higher education,2.9,Escolaridade da mae
+2016,Incomplete 1st to 4th grade,1.5,Escolaridade da mae
+2016,Completed 4th grade,0.0,Escolaridade da mae
+2016,Incomplete 5th to 8th Grade,31.3,Escolaridade da mae
+2016,Illiterate,0.0,Escolaridade da mae
+2016,Completed Elementary School,3.0,Escolaridade da mae
+2016,Missing Data,44.8,Escolaridade da mae
+2016,Completed High School,3.0,Escolaridade da mae
+2016,Incompleted High School,13.4,Escolaridade da mae
+2016,Does not apply,0.0,Escolaridade da mae
+2016,Completed Higher education,3.0,Escolaridade da mae
+2016,Incompleted Higher education,0.0,Escolaridade da mae
+2017,Incomplete 1st to 4th grade,1.4,Escolaridade da mae
+2017,Completed 4th grade,1.4,Escolaridade da mae
+2017,Incomplete 5th to 8th Grade,10.1,Escolaridade da mae
+2017,Illiterate,0.0,Escolaridade da mae
+2017,Completed Elementary School,7.2,Escolaridade da mae
+2017,Missing Data,53.6,Escolaridade da mae
+2017,Completed High School,7.2,Escolaridade da mae
+2017,Incompleted High School,18.8,Escolaridade da mae
+2017,Does not apply,0.0,Escolaridade da mae
+2017,Completed Higher education,0.0,Escolaridade da mae
+2017,Incompleted Higher education,0.0,Escolaridade da mae
+2018,Incomplete 1st to 4th grade,2.9,Escolaridade da mae
+2018,Completed 4th grade,1.0,Escolaridade da mae
+2018,Incomplete 5th to 8th Grade,18.1,Escolaridade da mae
+2018,Illiterate,0.0,Escolaridade da mae
+2018,Completed Elementary School,10.5,Escolaridade da mae
+2018,Missing Data,44.8,Escolaridade da mae
+2018,Completed High School,9.5,Escolaridade da mae
+2018,Incompleted High School,9.5,Escolaridade da mae
+2018,Does not apply,2.9,Escolaridade da mae
+2018,Completed Higher education,0.0,Escolaridade da mae
+2018,Incompleted Higher education,1.0,Escolaridade da mae
+2019,Incomplete 1st to 4th grade,3.2,Escolaridade da mae
+2019,Completed 4th grade,1.1,Escolaridade da mae
+2019,Incomplete 5th to 8th Grade,7.5,Escolaridade da mae
+2019,Illiterate,0.0,Escolaridade da mae
+2019,Completed Elementary School,7.5,Escolaridade da mae
+2019,Missing Data,66.7,Escolaridade da mae
+2019,Completed High School,7.5,Escolaridade da mae
+2019,Incompleted High School,4.3,Escolaridade da mae
+2019,Does not apply,1.1,Escolaridade da mae
+2019,Completed Higher education,1.1,Escolaridade da mae
+2019,Incompleted Higher education,0.0,Escolaridade da mae
+2011,10 to 14 years,0.0,Faixa etaria da mae
+2011,15 to 19 years,45.5,Faixa etaria da mae
+2011,20 to 29 years,18.2,Faixa etaria da mae
+2011,30 to 39 years,27.3,Faixa etaria da mae
+2011,40 years or more,9.1,Faixa etaria da mae
+2011,Missing Data,0.0,Faixa etaria da mae
+2012,10 to 14 years,0.0,Faixa etaria da mae
+2012,15 to 19 years,19.4,Faixa etaria da mae
+2012,20 to 29 years,45.2,Faixa etaria da mae
+2012,30 to 39 years,35.5,Faixa etaria da mae
+2012,40 years or more,0.0,Faixa etaria da mae
+2012,Missing Data,0.0,Faixa etaria da mae
+2013,10 to 14 years,5.7,Faixa etaria da mae
+2013,15 to 19 years,25.7,Faixa etaria da mae
+2013,20 to 29 years,40.0,Faixa etaria da mae
+2013,30 to 39 years,25.7,Faixa etaria da mae
+2013,40 years or more,0.0,Faixa etaria da mae
+2013,Missing Data,2.9,Faixa etaria da mae
+2014,10 to 14 years,0.0,Faixa etaria da mae
+2014,15 to 19 years,27.4,Faixa etaria da mae
+2014,20 to 29 years,54.8,Faixa etaria da mae
+2014,30 to 39 years,16.1,Faixa etaria da mae
+2014,40 years or more,1.6,Faixa etaria da mae
+2014,Missing Data,0.0,Faixa etaria da mae
+2015,10 to 14 years,1.4,Faixa etaria da mae
+2015,15 to 19 years,27.5,Faixa etaria da mae
+2015,20 to 29 years,44.9,Faixa etaria da mae
+2015,30 to 39 years,24.6,Faixa etaria da mae
+2015,40 years or more,0.0,Faixa etaria da mae
+2015,Missing Data,1.4,Faixa etaria da mae
+2016,10 to 14 years,3.0,Faixa etaria da mae
+2016,15 to 19 years,22.4,Faixa etaria da mae
+2016,20 to 29 years,56.7,Faixa etaria da mae
+2016,30 to 39 years,17.9,Faixa etaria da mae
+2016,40 years or more,0.0,Faixa etaria da mae
+2016,Missing Data,0.0,Faixa etaria da mae
+2017,10 to 14 years,0.0,Faixa etaria da mae
+2017,15 to 19 years,29.0,Faixa etaria da mae
+2017,20 to 29 years,50.7,Faixa etaria da mae
+2017,30 to 39 years,15.9,Faixa etaria da mae
+2017,40 years or more,0.0,Faixa etaria da mae
+2017,Missing Data,4.3,Faixa etaria da mae
+2018,10 to 14 years,0.0,Faixa etaria da mae
+2018,15 to 19 years,27.6,Faixa etaria da mae
+2018,20 to 29 years,58.1,Faixa etaria da mae
+2018,30 to 39 years,6.7,Faixa etaria da mae
+2018,40 years or more,0.0,Faixa etaria da mae
+2018,Missing Data,7.6,Faixa etaria da mae
+2019,10 to 14 years,1.1,Faixa etaria da mae
+2019,15 to 19 years,16.1,Faixa etaria da mae
+2019,20 to 29 years,52.7,Faixa etaria da mae
+2019,30 to 39 years,23.7,Faixa etaria da mae
+2019,40 years or more,2.2,Faixa etaria da mae
+2019,Missing Data,4.3,Faixa etaria da mae
+2011,Less than 7 days,100.0,Idade da crianca
+2011,1 year,0.0,Idade da crianca
+2011,2 to 4 years,0.0,Idade da crianca
+2011,28 to 364 days,0.0,Idade da crianca
+2011,5 to 12 years,0.0,Idade da crianca
+2011,7 to 27 days,0.0,Idade da crianca
+2011,Missing Data,0.0,Idade da crianca
+2012,1 year,0.0,Idade da crianca
+2012,2 to 4 years,0.0,Idade da crianca
+2012,28 to 364 days,0.0,Idade da crianca
+2012,5 to 12 years,0.0,Idade da crianca
+2012,7 to 27 days,3.2,Idade da crianca
+2012,Missing Data,0.0,Idade da crianca
+2012,Less than 7 days,96.8,Idade da crianca
+2013,1 year,0.0,Idade da crianca
+2013,2 to 4 years,0.0,Idade da crianca
+2013,28 to 364 days,0.0,Idade da crianca
+2013,5 to 12 years,0.0,Idade da crianca
+2013,7 to 27 days,0.0,Idade da crianca
+2013,Missing Data,0.0,Idade da crianca
+2013,Less than 7 days,100.0,Idade da crianca
+2014,1 year,0.0,Idade da crianca
+2014,2 to 4 years,0.0,Idade da crianca
+2014,28 to 364 days,3.2,Idade da crianca
+2014,5 to 12 years,0.0,Idade da crianca
+2014,7 to 27 days,0.0,Idade da crianca
+2014,Missing Data,0.0,Idade da crianca
+2014,Less than 7 days,96.8,Idade da crianca
+2015,1 year,0.0,Idade da crianca
+2015,2 to 4 years,0.0,Idade da crianca
+2015,28 to 364 days,2.9,Idade da crianca
+2015,5 to 12 years,0.0,Idade da crianca
+2015,7 to 27 days,1.4,Idade da crianca
+2015,Less than 7 days,95.7,Idade da crianca
+2016,1 year,1.5,Idade da crianca
+2016,2 to 4 years,0.0,Idade da crianca
+2016,28 to 364 days,1.5,Idade da crianca
+2016,5 to 12 years,0.0,Idade da crianca
+2016,7 to 27 days,0.0,Idade da crianca
+2016,Less than 7 days,97.0,Idade da crianca
+2017,1 year,0.0,Idade da crianca
+2017,2 to 4 years,0.0,Idade da crianca
+2017,28 to 364 days,0.0,Idade da crianca
+2017,5 to 12 years,0.0,Idade da crianca
+2017,7 to 27 days,5.8,Idade da crianca
+2017,Missing Data,0.0,Idade da crianca
+2017,Less than 7 days,94.2,Idade da crianca
+2018,1 year,0.0,Idade da crianca
+2018,2 to 4 years,0.0,Idade da crianca
+2018,28 to 364 days,0.0,Idade da crianca
+2018,5 to 12 years,0.0,Idade da crianca
+2018,7 to 27 days,2.9,Idade da crianca
+2018,Missing Data,0.0,Idade da crianca
+2018,Less than 7 days,97.1,Idade da crianca
+2019,1 year,0.0,Idade da crianca
+2019,2 to 4 years,0.0,Idade da crianca
+2019,28 to 364 days,0.0,Idade da crianca
+2019,5 to 12 years,0.0,Idade da crianca
+2019,7 to 27 days,0.0,Idade da crianca
+2019,Missing Data,0.0,Idade da crianca
+2019,Less than 7 days,100.0,Idade da crianca
+2011,After birth,9.1,Momento de diagnostico
+2011,During antenatal,54.5,Momento de diagnostico
+2011,Missing Data,0.0,Momento de diagnostico
+2011,No realized,0.0,Momento de diagnostico
+2011,During childbirth/Curettage,36.4,Momento de diagnostico
+2012,After birth,12.9,Momento de diagnostico
+2012,During antenatal,19.4,Momento de diagnostico
+2012,Missing Data,16.1,Momento de diagnostico
+2012,No realized,0.0,Momento de diagnostico
+2012,During childbirth/Curettage,51.6,Momento de diagnostico
+2013,After birth,14.3,Momento de diagnostico
+2013,During antenatal,42.9,Momento de diagnostico
+2013,No realized,2.9,Momento de diagnostico
+2013,During childbirth/Curettage,37.1,Momento de diagnostico
+2014,After birth,4.8,Momento de diagnostico
+2014,During antenatal,51.6,Momento de diagnostico
+2014,Missing Data,1.6,Momento de diagnostico
+2014,No realized,3.2,Momento de diagnostico
+2014,During childbirth/Curettage,38.7,Momento de diagnostico
+2015,After birth,7.2,Momento de diagnostico
+2015,During antenatal,62.3,Momento de diagnostico
+2015,Missing Data,1.4,Momento de diagnostico
+2015,No realized,1.4,Momento de diagnostico
+2015,During childbirth/Curettage,27.5,Momento de diagnostico
+2016,After birth,7.5,Momento de diagnostico
+2016,During antenatal,61.2,Momento de diagnostico
+2016,Missing Data,0.0,Momento de diagnostico
+2016,No realized,0.0,Momento de diagnostico
+2016,During childbirth/Curettage,31.3,Momento de diagnostico
+2017,After birth,4.3,Momento de diagnostico
+2017,During antenatal,58.0,Momento de diagnostico
+2017,Missing Data,7.2,Momento de diagnostico
+2017,No realized,0.0,Momento de diagnostico
+2017,During childbirth/Curettage,30.4,Momento de diagnostico
+2018,After birth,7.6,Momento de diagnostico
+2018,During antenatal,64.8,Momento de diagnostico
+2018,Missing Data,8.6,Momento de diagnostico
+2018,No realized,0.0,Momento de diagnostico
+2018,During childbirth/Curettage,19.0,Momento de diagnostico
+2019,After birth,1.1,Momento de diagnostico
+2019,During antenatal,62.4,Momento de diagnostico
+2019,Missing Data,6.5,Momento de diagnostico
+2019,No realized,0.0,Momento de diagnostico
+2019,During childbirth/Curettage,30.1,Momento de diagnostico
+2011,Yellow,0.0,Raca cor
+2011,White,36.4,Raca cor
+2011,Missing Data,9.1,Raca cor
+2011,Indigenous,0.0,Raca cor
+2011,Brown,27.3,Raca cor
+2011,Black,27.3,Raca cor
+2012,Yellow,0.0,Raca cor
+2012,White,16.1,Raca cor
+2012,Missing Data,16.1,Raca cor
+2012,Indigenous,0.0,Raca cor
+2012,Brown,19.4,Raca cor
+2012,Black,48.4,Raca cor
+2013,Yellow,0.0,Raca cor
+2013,White,14.3,Raca cor
+2013,Missing Data,20.0,Raca cor
+2013,Indigenous,0.0,Raca cor
+2013,Brown,20.0,Raca cor
+2013,Black,45.7,Raca cor
+2014,Yellow,0.0,Raca cor
+2014,White,17.7,Raca cor
+2014,Missing Data,4.8,Raca cor
+2014,Indigenous,0.0,Raca cor
+2014,Brown,33.9,Raca cor
+2014,Black,43.5,Raca cor
+2015,Yellow,4.3,Raca cor
+2015,White,27.5,Raca cor
+2015,Missing Data,8.7,Raca cor
+2015,Indigenous,0.0,Raca cor
+2015,Brown,27.5,Raca cor
+2015,Black,31.9,Raca cor
+2016,Yellow,3.0,Raca cor
+2016,White,29.9,Raca cor
+2016,Missing Data,7.5,Raca cor
+2016,Indigenous,0.0,Raca cor
+2016,Brown,19.4,Raca cor
+2016,Black,40.3,Raca cor
+2017,Yellow,0.0,Raca cor
+2017,White,29.0,Raca cor
+2017,Missing Data,5.8,Raca cor
+2017,Indigenous,0.0,Raca cor
+2017,Brown,26.1,Raca cor
+2017,Black,39.1,Raca cor
+2018,Yellow,1.0,Raca cor
+2018,White,32.4,Raca cor
+2018,Missing Data,5.7,Raca cor
+2018,Indigenous,0.0,Raca cor
+2018,Brown,21.0,Raca cor
+2018,Black,40.0,Raca cor
+2019,Yellow,2.2,Raca cor
+2019,White,28.0,Raca cor
+2019,Missing Data,10.8,Raca cor
+2019,Indigenous,0.0,Raca cor
+2019,Brown,33.3,Raca cor
+2019,Black,25.8,Raca cor
+2011,Missing Data,0.0,Realizacao do pre natal
+2011,No,36.4,Realizacao do pre natal
+2011,Yes,63.6,Realizacao do pre natal
+2012,No,32.3,Realizacao do pre natal
+2012,Yes,61.3,Realizacao do pre natal
+2013,Missing Data,2.9,Realizacao do pre natal
+2013,No,31.4,Realizacao do pre natal
+2013,Yes,65.7,Realizacao do pre natal
+2014,Missing Data,0.0,Realizacao do pre natal
+2014,No,30.6,Realizacao do pre natal
+2014,Yes,69.4,Realizacao do pre natal
+2015,Missing Data,2.9,Realizacao do pre natal
+2015,No,18.8,Realizacao do pre natal
+2015,Yes,78.3,Realizacao do pre natal
+2016,Missing Data,0.0,Realizacao do pre natal
+2016,No,7.5,Realizacao do pre natal
+2016,Yes,92.5,Realizacao do pre natal
+2017,Missing Data,2.9,Realizacao do pre natal
+2017,No,17.4,Realizacao do pre natal
+2017,Yes,79.7,Realizacao do pre natal
+2018,Missing Data,1.0,Realizacao do pre natal
+2018,No,19.0,Realizacao do pre natal
+2018,Yes,80.0,Realizacao do pre natal
+2019,Missing Data,2.2,Realizacao do pre natal
+2019,No,29.0,Realizacao do pre natal
+2019,Yes,68.8,Realizacao do pre natal
